@@ -17,7 +17,7 @@ export default async function ClientDashboardPage() {
       </div>
     );
   }
-
+// add notes here
   return (
     <ClientDashboardView
       clientData={clientData}
